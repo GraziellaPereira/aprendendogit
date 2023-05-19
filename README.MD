@@ -2,4 +2,6 @@
 
 ## SALVANDO MODIFICAÇÕES NO GIT
 * Comando Git Push
+
 * Comando Git Pull teste
+* funciona porcaria
